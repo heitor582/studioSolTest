@@ -56,7 +56,7 @@ $ npm run test:cov
  ```bash
 http://localhost:8080/
 ```
-![image](https://user-images.githubusercontent.com/58075535/124395497-cde12e00-dcda-11eb-842b-9213a008bc73.png)
+![image](https://user-images.githubusercontent.com/58075535/126069508-025a0070-0f02-417b-8f21-34462dbb95d2.png)
 
 
 # Import archive of Postman
@@ -73,16 +73,16 @@ In the postman click import -> Upload Files
 
 Import the json that is at the root of the project called 'StudioSol.postman_collection.json'
 
-![image](https://user-images.githubusercontent.com/58075535/124396566-b1e08b00-dce0-11eb-943b-a6a7c3c9c818.png)
+![image](https://user-images.githubusercontent.com/58075535/126069542-a375c52c-cd0f-476b-8937-1e8af2c2b018.png)
 
 And click in Import button
 
-![image](https://user-images.githubusercontent.com/58075535/124396573-bd33b680-dce0-11eb-917f-7f3e4a284972.png)
+![image](https://user-images.githubusercontent.com/58075535/126069548-b2f55cc4-0299-43ab-a230-f7ff56c412df.png)
 
 Now select the project at Postman and just do some requests clicking in the request and send
 
-![image](https://user-images.githubusercontent.com/58075535/124396581-cb81d280-dce0-11eb-92d6-af710d1aa27e.png)
+![image](https://user-images.githubusercontent.com/58075535/126069577-2451d382-f66c-4a08-9113-4a475e67818f.png)
 
-![image](https://user-images.githubusercontent.com/58075535/124396612-f2d89f80-dce0-11eb-93dc-ea98eae46526.png)
+![image](https://user-images.githubusercontent.com/58075535/126069596-9d0b06f6-ed44-47bc-9d42-ec13efc053f1.png)
 
 
