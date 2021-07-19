@@ -33,7 +33,6 @@ describe('MaxSubArrayService', () => {
       expect(result).rejects.toThrowError('List should be a array');
     });
   });
-
   describe('Request array [-2,3,5,-1,4,-5]', () => {
     const array: RequestDTO = { list: [-2, 3, 5, -1, 4, -5] };
     it('Should be return right result', async () => {
